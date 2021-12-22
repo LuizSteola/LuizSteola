@@ -17,7 +17,7 @@ I am a Chemical Engineer looking for opportunities to work as a developer
 <br>
 <br>
 
-## Worked with
+## knowledge
 
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=blue&style=for-the-badge" />
