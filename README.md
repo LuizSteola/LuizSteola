@@ -1,7 +1,7 @@
 ### Hello 👋
 I am a Chemical Engineer looking for opportunities
 
-- 🔭 Working on mobile apps in no-code plataforms and starting the migrations to Dart/Flutter
+- 🔭 Working on mobile apps in no-code platforms. Starting migrating them to Dart/Flutter
 - 🌱 Learning Dart/Flutter and fundamentals of HTML/CSS
 
 <br>
