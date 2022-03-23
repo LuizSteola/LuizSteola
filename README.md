@@ -1,8 +1,8 @@
 ### Hello 👋
-I am a Chemical Engineer looking for opportunities
+I am a Chemical Engineer looking for opportunities as Front-End Dev
 
 - 🔭 Working on mobile apps in no-code platforms. Starting migrating them to Dart/Flutter
-- 🌱 Learning HTML/CSS
+- 🌱 Learning HTML/CSS/JavaScript
 
 <br>
 
@@ -19,6 +19,8 @@ I am a Chemical Engineer looking for opportunities
 
 ## Knowledge
 
+<img align="left" alt="html5" src="https://img.shields.io/badge/HTML-F06529?logo=html5&logoColor=white&style=for-the-badge" />
+<img align="left" alt="css3" src="https://img.shields.io/badge/CSS-264de4?logo=css3&logoColor=white&style=for-the-badge" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=blue&style=for-the-badge" />
 <img align="left" alt="kodular" src="https://img.shields.io/badge/-KODULAR-blueviolet?style=for-the-badge&logo" />
