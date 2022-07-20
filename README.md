@@ -1,5 +1,5 @@
 ### Hello 👋
-I am a Chemical Engineer looking for opportunities as front-end dev
+I am a Chemical Engineer looking for opportunities
 
 - 🔭 Working on mobile apps in no-code platforms. Starting migrating them to Dart/Flutter
 - 🌱 Learning HTML/CSS/JavaScript
