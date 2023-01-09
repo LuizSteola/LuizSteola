@@ -28,6 +28,7 @@ I am a Chemical Engineer looking for opportunities
 
 ## Knowledge
 
+<img align="left" alt="javascript" src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript">  
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML-F06529?logo=html5&logoColor=white&style=for-the-badge" />
 <img align="left" alt="css3" src="https://img.shields.io/badge/CSS-264de4?logo=css3&logoColor=white&style=for-the-badge" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
