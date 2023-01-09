@@ -5,6 +5,15 @@ I am a Chemical Engineer looking for opportunities
 - 🌱 Learning HTML/CSS/JavaScript
 
 <br>
+<br>
+<div align="align">
+  <a href="https://github.com/LuizSteola">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizSteola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSteola&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+ <br>
+ <br>
 
 ## Connect with me
 
